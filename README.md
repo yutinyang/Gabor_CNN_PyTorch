@@ -7,6 +7,7 @@ These two implementations are sharing the same infrastructure level code.
 ## Requirements
 - PyTorch 1.1.0 (earlier versions are not supported)
 - torchvision
+关键：个人配置运行环境说明|：CUDA11.8, PyTorch 1.4.0, Torchvision 0.5.0, Python 3.6.2(3.6.0会出现问题)
   
 ## Install
 
