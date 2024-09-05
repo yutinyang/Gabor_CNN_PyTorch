@@ -21,5 +21,5 @@ sh install.sh
 
 ```
 cd demo
-python main.py --model gcn (--gpu 0)
+python main.py --model gcn --gpu 0
 ```
