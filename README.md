@@ -23,6 +23,3 @@ sh install.sh
 cd demo
 python main.py --model gcn (--gpu 0)
 ```
-
-## Please cite:
-@article{GaborCNNs, title={Gabor Convolutional Networks}, author={Luan, Shangzhen and chen, chen and Zhang, Baochang* and Han, jungong and Liu, Jianzhuang}, year={2018}, IEEE Trans. Image processing. }
